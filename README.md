@@ -3,7 +3,7 @@
 ## 산출 문서
 
 
-[1.[야보자]개발예정보고서.pdf](https://github.com/kangilchoi/protfolio/files/2897686/1.pdf)
+[1.[야보자]개발예정보고서.pdf](https://github.com/kangilchoi/protfolio/files/2897686/1.pdf) <br>
 [2.[야보자]개발표준안.pdf](https://github.com/kangilchoi/protfolio/files/2897687/2.pdf)
 [3.[ 야보자 ]기능정의서_FBS.pdf](https://github.com/kangilchoi/protfolio/files/2897688/3._FBS.pdf)
 [4.[야보자]업무분해도_wbs.pdf](https://github.com/kangilchoi/protfolio/files/2897689/4._wbs.pdf)
