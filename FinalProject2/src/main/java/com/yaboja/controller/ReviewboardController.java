@@ -131,7 +131,7 @@ public class ReviewboardController {
 			if (fileList.length > 0) {
 				for (int i = 0; i < fileList.length; i++) {
 					System.out.println(fileList[i]);
-					tmp = fileList[i] + "\\git\\yaboja\\FinalProject\\src\\main\\webapp\\resource\\photo_upload";
+					tmp=fileList[i]+"\\git\\finalProject\\FinalProject2\\src\\main\\webapp\\profile";
 					File file_exe = new File(tmp);
 					if (file_exe.isDirectory()) {
 						filePath_photo = tmp;
